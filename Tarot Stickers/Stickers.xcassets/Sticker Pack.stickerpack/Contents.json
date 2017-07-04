@@ -1,0 +1,245 @@
+{
+  "stickers" : [
+    {
+      "filename" : "Fool.sticker"
+    },
+    {
+      "filename" : "Magician.sticker"
+    },
+    {
+      "filename" : "HighPriestess.sticker"
+    },
+    {
+      "filename" : "Empress.sticker"
+    },
+    {
+      "filename" : "Emperor.sticker"
+    },
+    {
+      "filename" : "Hierophant.sticker"
+    },
+    {
+      "filename" : "Lovers.sticker"
+    },
+    {
+      "filename" : "Chariot.sticker"
+    },
+    {
+      "filename" : "Strength.sticker"
+    },
+    {
+      "filename" : "Hermit.sticker"
+    },
+    {
+      "filename" : "WheelOfFortune.sticker"
+    },
+    {
+      "filename" : "Justice.sticker"
+    },
+    {
+      "filename" : "HangedMan.sticker"
+    },
+    {
+      "filename" : "Death.sticker"
+    },
+    {
+      "filename" : "Temperance.sticker"
+    },
+    {
+      "filename" : "Devil.sticker"
+    },
+    {
+      "filename" : "Tower.sticker"
+    },
+    {
+      "filename" : "Star.sticker"
+    },
+    {
+      "filename" : "Moon.sticker"
+    },
+    {
+      "filename" : "Sun.sticker"
+    },
+    {
+      "filename" : "Judgement.sticker"
+    },
+    {
+      "filename" : "World.sticker"
+    },
+    {
+      "filename" : "AceCups.sticker"
+    },
+    {
+      "filename" : "02Cups.sticker"
+    },
+    {
+      "filename" : "03Cups.sticker"
+    },
+    {
+      "filename" : "04Cups.sticker"
+    },
+    {
+      "filename" : "05Cups.sticker"
+    },
+    {
+      "filename" : "06Cups.sticker"
+    },
+    {
+      "filename" : "07Cups.sticker"
+    },
+    {
+      "filename" : "08Cups.sticker"
+    },
+    {
+      "filename" : "09Cups.sticker"
+    },
+    {
+      "filename" : "10Cups.sticker"
+    },
+    {
+      "filename" : "PageCups.sticker"
+    },
+    {
+      "filename" : "KnightCups.sticker"
+    },
+    {
+      "filename" : "QueenCups.sticker"
+    },
+    {
+      "filename" : "KingCups.sticker"
+    },
+    {
+      "filename" : "AcePentacles.sticker"
+    },
+    {
+      "filename" : "02Pentacles.sticker"
+    },
+    {
+      "filename" : "03Pentacles.sticker"
+    },
+    {
+      "filename" : "04Pentacles.sticker"
+    },
+    {
+      "filename" : "05Pentacles.sticker"
+    },
+    {
+      "filename" : "06Pentacles.sticker"
+    },
+    {
+      "filename" : "07Pentacles.sticker"
+    },
+    {
+      "filename" : "08Pentacles.sticker"
+    },
+    {
+      "filename" : "09Pentacles.sticker"
+    },
+    {
+      "filename" : "10Pentacles.sticker"
+    },
+    {
+      "filename" : "PagePentacles.sticker"
+    },
+    {
+      "filename" : "KnightPentacles.sticker"
+    },
+    {
+      "filename" : "QueenPentacles.sticker"
+    },
+    {
+      "filename" : "KingPentacles.sticker"
+    },
+    {
+      "filename" : "AceSwords.sticker"
+    },
+    {
+      "filename" : "02Swords.sticker"
+    },
+    {
+      "filename" : "03Swords.sticker"
+    },
+    {
+      "filename" : "04Swords.sticker"
+    },
+    {
+      "filename" : "05Swords.sticker"
+    },
+    {
+      "filename" : "06Swords.sticker"
+    },
+    {
+      "filename" : "07Swords.sticker"
+    },
+    {
+      "filename" : "08Swords.sticker"
+    },
+    {
+      "filename" : "09Swords.sticker"
+    },
+    {
+      "filename" : "10Swords.sticker"
+    },
+    {
+      "filename" : "PageSwords.sticker"
+    },
+    {
+      "filename" : "KnightSwords.sticker"
+    },
+    {
+      "filename" : "QueenSwords.sticker"
+    },
+    {
+      "filename" : "KingSwords.sticker"
+    },
+    {
+      "filename" : "AceWands.sticker"
+    },
+    {
+      "filename" : "02Wands.sticker"
+    },
+    {
+      "filename" : "03Wands.sticker"
+    },
+    {
+      "filename" : "04Wands.sticker"
+    },
+    {
+      "filename" : "05Wands.sticker"
+    },
+    {
+      "filename" : "06Wands.sticker"
+    },
+    {
+      "filename" : "07Wands.sticker"
+    },
+    {
+      "filename" : "08Wands.sticker"
+    },
+    {
+      "filename" : "09Wands.sticker"
+    },
+    {
+      "filename" : "10Wands.sticker"
+    },
+    {
+      "filename" : "PageWands.sticker"
+    },
+    {
+      "filename" : "KnightWands.sticker"
+    },
+    {
+      "filename" : "QueenWands.sticker"
+    },
+    {
+      "filename" : "KingWands.sticker"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  },
+  "properties" : {
+    "grid-size" : "regular"
+  }
+}
