@@ -9,6 +9,11 @@
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
+		<key>Tarot Draw.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
 		<key>Tarot Stickers.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
@@ -17,6 +22,11 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
+		<key>1E467F371F0D346C00C102E8</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 		<key>1EBF21A11F090995002099ED</key>
 		<dict>
 			<key>primary</key>
