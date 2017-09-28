@@ -2,11 +2,11 @@
   "images" : [
     {
       "idiom" : "universal",
-      "filename" : "rwpagecups.jpg",
       "scale" : "1x"
     },
     {
       "idiom" : "universal",
+      "filename" : "rwpagecups.jpg",
       "scale" : "2x"
     },
     {

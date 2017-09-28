@@ -2,11 +2,11 @@
   "images" : [
     {
       "idiom" : "universal",
-      "filename" : "rwknightswords.jpg",
       "scale" : "1x"
     },
     {
       "idiom" : "universal",
+      "filename" : "rwknightswords.jpg",
       "scale" : "2x"
     },
     {

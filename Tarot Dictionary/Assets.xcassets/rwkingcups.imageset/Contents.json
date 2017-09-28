@@ -2,11 +2,11 @@
   "images" : [
     {
       "idiom" : "universal",
-      "filename" : "rwkingcups.jpg",
       "scale" : "1x"
     },
     {
       "idiom" : "universal",
+      "filename" : "rwkingcups.jpg",
       "scale" : "2x"
     },
     {

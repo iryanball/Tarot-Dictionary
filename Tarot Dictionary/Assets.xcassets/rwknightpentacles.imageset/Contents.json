@@ -2,11 +2,11 @@
   "images" : [
     {
       "idiom" : "universal",
-      "filename" : "rwknightpentacles.jpg",
       "scale" : "1x"
     },
     {
       "idiom" : "universal",
+      "filename" : "rwknightpentacles.jpg",
       "scale" : "2x"
     },
     {
