@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<document type="com.apple.InterfaceBuilder.WatchKit.Storyboard" version="3.0" toolsVersion="13122.19" systemVersion="16F73" targetRuntime="watchKit" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES" initialViewController="AgC-eL-Hgc">
+<document type="com.apple.InterfaceBuilder.WatchKit.Storyboard" version="3.0" toolsVersion="13771" targetRuntime="watchKit" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES" initialViewController="AgC-eL-Hgc">
     <device id="watch38" orientation="portrait">
         <adaptation id="fullscreen"/>
     </device>
     <dependencies>
         <deployment identifier="watchOS"/>
-        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="13104.16"/>
-        <plugIn identifier="com.apple.InterfaceBuilder.IBWatchKitPlugin" version="13034"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="13772"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBWatchKitPlugin" version="13756"/>
     </dependencies>
     <scenes>
         <!--Interface Controller-->
@@ -19,9 +19,16 @@
                                 <action selector="drawTarotCard" destination="AgC-eL-Hgc" id="rSb-Eb-hT8"/>
                             </connections>
                         </button>
+                        <button width="1" alignment="left" verticalAlignment="bottom" hidden="YES" title="Clear" id="6HA-HZ-vVJ">
+                            <connections>
+                                <action selector="clearButtonPressed" destination="AgC-eL-Hgc" id="HMI-Sz-OxL"/>
+                            </connections>
+                        </button>
                         <imageView width="88" height="109" alignment="center" image="Back" contentMode="scaleAspectFit" id="R9e-Qn-fwV"/>
                     </items>
                     <connections>
+                        <outlet property="clearButton" destination="6HA-HZ-vVJ" id="ddj-9Q-BAt"/>
+                        <outlet property="drawCardButton" destination="YJE-6f-r2O" id="Hb9-g7-x4h"/>
                         <outlet property="tarotCardImage" destination="R9e-Qn-fwV" id="ypL-ym-wGV"/>
                     </connections>
                 </controller>
