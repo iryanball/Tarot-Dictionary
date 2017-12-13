@@ -6,7 +6,6 @@
     <dependencies>
         <deployment identifier="iOS"/>
         <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="13772"/>
-        <capability name="Constraints to layout margins" minToolsVersion="6.0"/>
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
     <scenes>
@@ -23,16 +22,16 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="Tarot" translatesAutoresizingMaskIntoConstraints="NO" id="nnC-4v-yiE">
-                                <rect key="frame" x="16" y="20" width="343" height="627"/>
+                                <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                             </imageView>
                         </subviews>
                         <color key="backgroundColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                         <constraints>
-                            <constraint firstItem="nnC-4v-yiE" firstAttribute="leading" secondItem="Ze5-6b-2t3" secondAttribute="leadingMargin" id="6fd-fB-LLy"/>
-                            <constraint firstItem="nnC-4v-yiE" firstAttribute="trailing" secondItem="Ze5-6b-2t3" secondAttribute="trailingMargin" id="Ieb-yb-Q0B"/>
-                            <constraint firstItem="xb3-aO-Qok" firstAttribute="top" secondItem="nnC-4v-yiE" secondAttribute="bottom" constant="20" id="JPj-xH-nVb"/>
-                            <constraint firstItem="nnC-4v-yiE" firstAttribute="top" secondItem="Llm-lL-Icb" secondAttribute="bottom" id="tZb-fq-2YF"/>
+                            <constraint firstItem="nnC-4v-yiE" firstAttribute="leading" secondItem="Ze5-6b-2t3" secondAttribute="leading" id="Plf-wI-jFh"/>
+                            <constraint firstItem="nnC-4v-yiE" firstAttribute="top" secondItem="Ze5-6b-2t3" secondAttribute="top" id="V3f-uY-L8J"/>
+                            <constraint firstItem="xb3-aO-Qok" firstAttribute="top" secondItem="nnC-4v-yiE" secondAttribute="bottom" id="V65-PC-H0t"/>
+                            <constraint firstAttribute="trailing" secondItem="nnC-4v-yiE" secondAttribute="trailing" id="uT2-4p-yRc"/>
                         </constraints>
                     </view>
                 </viewController>
