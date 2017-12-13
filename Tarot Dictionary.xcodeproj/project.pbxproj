@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1E3898811FE1616B00626275 /* FourthViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E3898801FE1616B00626275 /* FourthViewController.swift */; };
 		1E44E94F1F1383D9000DF178 /* InterfaceController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E467F491F0D346C00C102E8 /* InterfaceController.swift */; };
 		1E44E9501F1388D1000DF178 /* InterfaceController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E467F491F0D346C00C102E8 /* InterfaceController.swift */; };
 		1E44E9511F138911000DF178 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1E467F3D1F0D346C00C102E8 /* Assets.xcassets */; };
@@ -89,6 +90,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		1E3898801FE1616B00626275 /* FourthViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FourthViewController.swift; sourceTree = "<group>"; };
 		1E467F381F0D346C00C102E8 /* Tarot Draw.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Tarot Draw.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		1E467F3B1F0D346C00C102E8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Interface.storyboard; sourceTree = "<group>"; };
 		1E467F3D1F0D346C00C102E8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -182,6 +184,7 @@
 				1EBF21A71F090995002099ED /* FirstViewController.swift */,
 				1EBF21A91F090995002099ED /* SecondViewController.swift */,
 				1EBF21B91F090A5D002099ED /* ThirdViewController.swift */,
+				1E3898801FE1616B00626275 /* FourthViewController.swift */,
 				1EBF21AB1F090995002099ED /* Main.storyboard */,
 				1EBF21AE1F090995002099ED /* Assets.xcassets */,
 				1EBF21B01F090995002099ED /* LaunchScreen.storyboard */,
@@ -378,6 +381,7 @@
 				1EBF21AA1F090995002099ED /* SecondViewController.swift in Sources */,
 				1EBF21BC1F090B80002099ED /* Tarot.swift in Sources */,
 				1EBF21A61F090995002099ED /* AppDelegate.swift in Sources */,
+				1E3898811FE1616B00626275 /* FourthViewController.swift in Sources */,
 				1E44E94F1F1383D9000DF178 /* InterfaceController.swift in Sources */,
 				1EBF21BA1F090A5D002099ED /* ThirdViewController.swift in Sources */,
 				1EBF21A81F090995002099ED /* FirstViewController.swift in Sources */,
