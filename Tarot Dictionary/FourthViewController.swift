@@ -19,6 +19,14 @@ class FourthViewController: UIViewController {
         super.viewDidLoad()
         
         // Do any additional setup after loading the view.
+        if allowReversedTarotSwitch.isOn == true {
+            
+            selectedTarotArray = cardsArrayIncReversed
+            
+        } else {
+            selectedTarotArray = cardsArray
+        }
+    
     }
     
     @IBAction func reversedTarotChanged(_ sender: Any) {
