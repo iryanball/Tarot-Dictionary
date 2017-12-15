@@ -8,7 +8,7 @@
 
 import UIKit
 
-var selectedTarotArray = [Tarot]()
+var selectedTarotArray = cardsArrayIncReversed
 
 class FourthViewController: UIViewController {
     
